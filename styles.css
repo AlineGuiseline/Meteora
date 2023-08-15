@@ -2,6 +2,14 @@
     font-size: 13px;
 }
 
+.btn-show-more {
+    background-color: #9353FF !important;
+}
+
 .facilities {
     width: 325px;
+}
+
+.icon-palette, .text-palette {
+    color: #DAFF01;
 }
